@@ -189,8 +189,12 @@ All product backlog items, including bugs, are recorded in the [NotAlone Github 
 #### Contact information
 
 **General inquiries:** 18F@gsa.gov
+
 **DevOps:** devops@gsa.gov
+
 **Interagency Agreements:** Aaron Snow -  aaron.snow@gsa.gov
 
-**NotAlone Project Lead:** Aaron SNow - aaron.snow@gsa.gov
+**NotAlone Project Lead:** TBD
+
 **NotAlone Technical Lead:** Aaron Snow - aaron.snow@gsa.gov
+
