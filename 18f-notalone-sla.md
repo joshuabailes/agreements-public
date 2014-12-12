@@ -176,7 +176,8 @@ Overall analytics data is collected via the GSA-run Government Enterprise Google
   * static code analysis (e.g., HP Fortify, Checkmarx, Hariki)
   * penetration testing
 
-18F is the System Owner of NotAlone. The 18F/GSA Authorizing Official signed an ATO to put NotAlone into production under the current controls for no more than (1) one year under its current set of functions. 18F will renew or replace this ATO before it expires.
+18F is the System Owner of NotAlone. ("System Owner" is a term of art, defined in [NIST Special Publication 800-18, 
+Revision 1, Guide for Developing Security Plans for Federal Information Systems](http://csrc.nist.gov/publications/nistpubs/800-18-Rev1/sp800-18-Rev1-final.pdf).) The 18F/GSA Authorizing Official signed an ATO to put NotAlone into production under the current controls for no more than (1) one year under its current set of functions. 18F will renew or replace this ATO before it expires.
 
 #### Design and code bug fixes
 
