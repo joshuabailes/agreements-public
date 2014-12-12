@@ -48,7 +48,7 @@ We manage:
 * _Paperwork Reduction Act (PRA)_: We conduct our own PRAs and have a close working relationship with OIRA/OMB.
 
 
-18F strongly recommends the use of the AWS E/W for all net-new system development, unless you require compliance with [International Traffic in Arms Regulations (ITAR)](https://www.pmddtc.state.gov/regulations_laws/itar.html]. There are multiple value-added components within AWS E/W that are unavailable in the AWS GovCloud; many of these directly help with the auditability and security of the system. AWS E/W services are also available at a lower rate than those in the AWS GovCloud.
+18F strongly recommends the use of the AWS E/W for all net-new system development, unless you require compliance with [International Traffic in Arms Regulations (ITAR)](https://www.pmddtc.state.gov/regulations_laws/itar.html). There are multiple value-added components within AWS E/W that are unavailable in the AWS GovCloud; many of these directly help with the auditability and security of the system. AWS E/W services are also available at a lower rate than those in the AWS GovCloud.
 
 _If you deploy your own applications on our IaaS, you are responsible for the compliance, performance, and operation of your systems._
 
