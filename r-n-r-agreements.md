@@ -25,4 +25,4 @@ Responsibility | Party | Description
 **Business Development** | Both | Process of discovery and negotiation between the parties regarding a potential engagements.
 **Cost Estimation** | 18F | Determination of projected cost of services and/or goods to be rendered under a potential engagement.
 **Completing the SOW** | Both | Negotiating, drafting, reviewing, editing, and any other activities related to reaching agreement on a comprehensive statement of work that will governm performance of both parties during the engagement.
-**Completing 7600A and 7600B Forms**
+**Completing 7600A and 7600B Forms** | Both | Populating all necessary fields on the FMS 7600A and 7600B inter-agency agreement forms and validating entries.
