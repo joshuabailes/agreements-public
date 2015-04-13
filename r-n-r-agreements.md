@@ -41,3 +41,6 @@ Role/Responsibility | Assignment within 18F
 **Completing the SOW** | Delivery, Consulting, Talent, Infrastructure, C3O, or Busniess Development and Strategy
 **Completing 7600A and 7600B Forms** | Team Operations
 **Legal Sufficiency** | Team Operations
+
+
+### 5.0 Workflow
