@@ -1,10 +1,10 @@
 ## Roles and Responsibilities for Agreements
 
-### Purpose
+### 1.0 Purpose
 
 This document describes the internal roles and responsibilities necessary for the development, execution, and performance of an agreement between 18F and a client, where 18F is providing the client with services and/or goods.
 
-### List of Roles
+### 2.0 List of Roles
 
 Role | Party | Description
 ---- | ----- | -----------
@@ -18,7 +18,7 @@ Role | Party | Description
 **GSA OGC** | 18F | The GSA's Office of the General Counsel; responsible for reviewing proposed agreements for legal sufficiency.
 **GSA OCFO** | 18F | The GSA's Office of the Chief Financial Officer; responsible reviewing proposed agreements for financial compliance.
 
-### List of Responsibilities
+### 3.0 List of Responsibilities
 
 Responsibility | Party | Description
 -------------- | ----- | -----------
@@ -28,7 +28,7 @@ Responsibility | Party | Description
 **Completing 7600A and 7600B Forms** | Both | Populating all necessary fields on the FMS 7600A and 7600B inter-agency agreement forms and validating entries.
 **Legal Sufficiency** | Both | Request and receipt of legal sufficiency determination from each party's legal counsel.
 
-### Assignment of Roles and Responsibilities within 18F
+### 4.0 Assignment of Roles and Responsibilities within 18F
 
 Role/Responsibility | Assignment within 18F
 ------------------- | ---------------------
