@@ -22,11 +22,13 @@ Role | Party | Description
 
 Responsibility | Party | Description
 -------------- | ----- | -----------
-**Business Development** | Both | Process of discovery and negotiation between the parties regarding a potential engagements.
+**Business Development** | Both | Process of discovery and negotiation between the parties regarding a potential engagements.  Includes regular review of inquires18F@gsa.gov and other business leads.
 **Cost Estimation** | 18F | Determination of projected cost of services and/or goods to be rendered under a potential engagement.
 **Completing the SOW** | Both | Negotiating, drafting, reviewing, editing, and any other activities related to reaching agreement on a comprehensive statement of work that will governm performance of both parties during the engagement.
 **Completing 7600A and 7600B Forms** | Both | Populating all necessary fields on the FMS 7600A and 7600B inter-agency agreement forms and validating entries.
 **Legal Sufficiency** | Both | Request and receipt of legal sufficiency determination from each party's legal counsel.
+**Green Lighting** | Both | Point at which a party's leadership or other entity have given the go-ahead for a given engagement, associated SOW, and cost.
+**Preparation for Signature** | 18F | Assembly of all final components of an agreement into a single file or email and transmitting for signature.
 
 ### 4.0 Assignment of Roles and Responsibilities within 18F
 
@@ -41,7 +43,17 @@ Role/Responsibility | Assignment within 18F
 **Completing the SOW** | Delivery, Consulting, Talent, Infrastructure, C3O, or Busniess Development and Strategy
 **Completing 7600A and 7600B Forms** | Team Operations
 **Legal Sufficiency** | Team Operations
+**Green Lighting** | Project Selection Committee
+**Preparation for Signature** | Team Operations
 
 
-### 5.0 Workflow
+### 5.0 Responsibility Workflow
+
+Step | Responsibility | Role
+---- | -------------- | ------
+1 | Business Development | Engagement Lead; Business Development and Strategy
+2a | Completing the SOW | Engagement Lead
+2b | Cost Estimation | Engagement Lead
+3 | Green Lighting | Engagement Lead; Project Selection Committee
+4 | Preparation for Signature | Team Operations
 
