@@ -36,6 +36,6 @@ Each Electronic and Information Technology (EIT) product or service furnished un
 
 ##### 2.2.3 Communications
 
-
+The requesting agency acknowledges that the servicing agency may write or speak about work or the process of creating such work in blog posts, case studies or other means of self-promotion.
 
 
