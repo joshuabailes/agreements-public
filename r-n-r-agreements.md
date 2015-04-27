@@ -55,5 +55,6 @@ Step | Responsibility | Role
 2a | Completing the SOW | Engagement Lead
 2b | Cost Estimation | Engagement Lead
 3 | Green Lighting | Engagement Lead; Project Selection Committee
-4 | Preparation for Signature | Team Operations
+4 | Senior Leadship Review | Executive Director
+5 | Preparation for Signature | Team Operations
 
