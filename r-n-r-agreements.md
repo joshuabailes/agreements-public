@@ -11,7 +11,7 @@ Role  | Description | 18F Team Assignment
 **Engagement Lead** | Principle point of contact for 18F's management of the product, project, service, or other assistance that 18F is providing to the client. | Delivery, Consulting, Talent, Infrastructure, or C3O 
 **Operations Lead** | Principle point of contact for 18F's management of financial and legal aspects of the engagement. | Team Operations
 **Project Selection Committee** | Internal team that reviews all incoming business opportunities for all business lines and makes recommendations in light of available resources, probability of success, "fit", and other characteristics. | Business Development and Strategy
-**Director** | The administrative and supervisory head of a functional area who is responsible for, among other things, for managing their human and non-human resources efficiently. | Director of Delivery, Consulting, Talent, Infrastructure, or C3O
+**Director** | The administrative and supervisory head of a functional area who is responsible for, among other things, for managing human and non-human resources. | Director of Delivery, Consulting, Talent, Infrastructure, or C3O
 **Executive Director** | The administrative and supervisory head of 18F. | Executive Director 
 **GSA OGC** | The GSA's Office of the General Counsel; responsible for reviewing proposed agreements for legal sufficiency. | n/a
 **GSA OCFO** | The GSA's Office of the Chief Financial Officer; responsible reviewing proposed agreements for financial compliance. | n/a
