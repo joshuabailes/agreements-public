@@ -10,7 +10,7 @@ Role  | Description | 18F Team Assignment
 ----  | ----------- | -------------------
 **Engagement Lead** | Principle point of contact for 18F's management of the product, project, service, or other assistance that 18F is providing to the client. | Delivery, Consulting, Talent, Infrastructure, or C3O 
 **Operations Lead** | Principle point of contact for 18F's management of financial and legal aspects of the engagement. | Team Operations
-**Project Selection Committee** | Internal team that reviews all incoming business opportunitites for all business lines and makes recommendations in light of available resources, probability of success, "fit", and other characteristics. | Business Development and Strategy
+**Project Selection Committee** | Internal team that reviews all incoming business opportunities for all business lines and makes recommendations in light of available resources, probability of success, "fit", and other characteristics. | Business Development and Strategy
 **Director** | The administrative and supervisory head of a functional area who is responsible for, among other things, for managing their human and non-human resources efficiently. | Director of Delivery, Consulting, Talent, Infrastructure, or C3O
 **Executive Director** | The administrative and supervisory head of 18F. | Executive Director 
 **GSA OGC** | The GSA's Office of the General Counsel; responsible for reviewing proposed agreements for legal sufficiency. | n/a
@@ -20,9 +20,9 @@ Role  | Description | 18F Team Assignment
 
 Responsibility  | Description | 18F Team Assignment
 --------------  | ----------- | -------------------
-**Business Development** | Process of discovery and negotiation between the parties regarding a potential engagements.  Includes regular review of inquiries18F@gsa.gov and other business leads. | Delivery, Consulting, Talent, Infrastructure, C3O, or Busniess Development and Strategy
-**Cost Estimation** | Determination of projected cost of services and/or goods to be rendered under a potential engagement. | Delivery, Consulting, Talent, Infrastructure, C3O, or Busniess Development and Strategy
-**Completing the SOW** | Negotiating, drafting, reviewing, editing, and any other activities related to reaching agreement on a comprehensive statement of work that will governm performance of both parties during the engagement. | Delivery, Consulting, Talent, Infrastructure, C3O, or Busniess Development and Strategy
+**Business Development** | Process of discovery and negotiation between the parties regarding a potential engagements.  Includes regular review of inquiries18F@gsa.gov and other business leads. | Delivery, Consulting, Talent, Infrastructure, C3O, or Business Development and Strategy
+**Cost Estimation** | Determination of projected cost of services and/or goods to be rendered under a potential engagement. | Delivery, Consulting, Talent, Infrastructure, C3O, or Business Development and Strategy
+**Completing the SOW** | Negotiating, drafting, reviewing, editing, and any other activities related to reaching agreement on a comprehensive statement of work that will govern performance of both parties during the engagement. | Delivery, Consulting, Talent, Infrastructure, C3O, or Business Development and Strategy
 **Completing 7600A and 7600B Forms** | Populating all necessary fields on the FMS 7600A and 7600B inter-agency agreement forms and validating entries. | Team Operations
 **Legal Sufficiency** | Request and receipt of legal sufficiency determination from each party's legal counsel. | Team Operations
 **Green Lighting** | Point at which a party's leadership or other entity have given the go-ahead for a given engagement, associated SOW, and cost. | Project Selection Committee
@@ -37,7 +37,7 @@ Step | Responsibility | Role
 2b | Cost Estimation | Engagement Lead
 3 | Green Lighting | Engagement Lead; Project Selection Committee; Directors
 4 | Legal Sufficiency | Operations Lead
-4 | Senior Leadship Review | Executive Director
+4 | Senior Leadership Review | Executive Director
 5 | Preparation for Signature | Operations Lead
 6 | Submission to Associate Administrator for Signature | Operations Lead
 7 | Submission to GSA OCFO for Signature | Operations Lead
