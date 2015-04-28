@@ -37,8 +37,10 @@ Step | Responsibility | Role | 18F Team Assignment
 2b | Cost Estimation | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
 3 | Green Lighting | Engagement Lead; Project Selection Committee; Directors | Delivery, Consulting, Talent, Infrastructure, C3O, and Business Development and Strategy
 4 | Legal Sufficiency | Operations Lead | Team Operations
-4 | Senior Leadership Review | Executive Director | Team Operations
-5 | Preparation for Signature | Operations Lead | Team Operations
-6 | Submission to Associate Administrator for Signature | Operations Lead | Team Operations
-7 | Submission to GSA OCFO for Signature | Operations Lead | Team Operations
+5 | Senior Leadership Review | Executive Director | Team Operations
+6 | Preparation for Signature | Operations Lead | Team Operations
+7 | Submission to Associate Administrator for Signature | Operations Lead | Team Operations
+8 | Submission to GSA OCFO for Signature | Operations Lead | Team Operations
+9 | File and Distribute Executed Agreement | Operations Lead | Team Operations
+10 | Project Kickoff | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
 
