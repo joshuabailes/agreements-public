@@ -30,7 +30,7 @@ Responsibility | Party | Description | 18F Team Assignment
 **Green Lighting** | Both | Point at which a party's leadership or other entity have given the go-ahead for a given engagement, associated SOW, and cost. | Project Selection Committee
 **Preparation for Signature** | 18F | Assembly of all final components of an agreement into a single file or email and transmitting for signature. | Team Operations
 
-### 5.0 Workflow Summary
+### 5.0 18F Internal Workflow Summary
 
 Step | Responsibility | Role
 ---- | -------------- | ------
