@@ -30,15 +30,15 @@ Responsibility  | Description | 18F Team Assignment
 
 ### 4.0 18F Internal Workflow Summary
 
-Step | Responsibility | Role
+Step | Responsibility | Role | 18F Team Assignment
 ---- | -------------- | ------
-1 | Business Development | Engagement Lead
-2a | Completing the SOW | Engagement Lead
-2b | Cost Estimation | Engagement Lead
-3 | Green Lighting | Engagement Lead; Project Selection Committee; Directors
-4 | Legal Sufficiency | Operations Lead
-4 | Senior Leadership Review | Executive Director
-5 | Preparation for Signature | Operations Lead
-6 | Submission to Associate Administrator for Signature | Operations Lead
-7 | Submission to GSA OCFO for Signature | Operations Lead
+1 | Business Development | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
+2a | Completing the SOW | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
+2b | Cost Estimation | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
+3 | Green Lighting | Engagement Lead; Project Selection Committee; Directors | Delivery, Consulting, Talent, Infrastructure, C3O, and Business Development and Strategy
+4 | Legal Sufficiency | Operations Lead | Team Operations
+4 | Senior Leadership Review | Executive Director | Team Operations
+5 | Preparation for Signature | Operations Lead | Team Operations
+6 | Submission to Associate Administrator for Signature | Operations Lead | Team Operations
+7 | Submission to GSA OCFO for Signature | Operations Lead | Team Operations
 
