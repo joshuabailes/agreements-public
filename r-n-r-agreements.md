@@ -37,7 +37,7 @@ Step | Responsibility | Role
 1 | Business Development | Engagement Lead
 2a | Completing the SOW | Engagement Lead
 2b | Cost Estimation | Engagement Lead
-3 | Green Lighting | Engagement Lead; Project Selection Committee
+3 | Green Lighting | Engagement Lead; Project Selection Committee; Directors
 4 | Legal Sufficiency | Operations Lead
 4 | Senior Leadship Review | Executive Director
 5 | Preparation for Signature | Operations Lead
