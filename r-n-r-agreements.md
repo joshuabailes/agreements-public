@@ -39,4 +39,6 @@ Step | Responsibility | Role
 4 | Legal Sufficiency | Operations Lead
 4 | Senior Leadship Review | Executive Director
 5 | Preparation for Signature | Operations Lead
+6 | Submission to Associate Administrator for Signature | Operations Lead
+7 | Submission to GSA OCFO for Signature | Operations Lead
 
