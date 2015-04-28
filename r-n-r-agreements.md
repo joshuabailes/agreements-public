@@ -10,8 +10,6 @@ Role  | Description | 18F Team Assignment
 ----  | ----------- | -------------------
 **Engagement Lead** | Principle point of contact for 18F's management of the product, project, service, or other assistance that 18F is providing to the client. | Delivery, Consulting, Talent, Infrastructure, or C3O 
 **Operations Lead** | Principle point of contact for 18F's management of financial and legal aspects of the engagement. | Team Operations
-**Client POC** | Client | Principle point of contact for all 18F inquiries. | n/a
-**Client Secondary POC** | Client | Any other point of contact provided by the client to 18F for management of the engagement.  May incldue finance, legal, or other point of contact. | n/a
 **Project Selection Committee** | Internal team that reviews all incoming business opportunitites for all business lines and makes recommendations in light of available resources, probability of success, "fit", and other characteristics. | Business Development and Strategy
 **Director** | The administrative and supervisory head of a functional area who is responsible for, among other things, for managing their human and non-human resources efficiently. | Director of Delivery, Consulting, Talent, Infrastructure, or C3O
 **Executive Director** | The administrative and supervisory head of 18F. | Executive Director 
