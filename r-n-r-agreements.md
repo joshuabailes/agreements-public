@@ -31,7 +31,7 @@ Responsibility  | Description | 18F Team Assignment
 ### 4.0 18F Internal Workflow Summary
 
 Step | Responsibility | Role | 18F Team Assignment
----- | -------------- | ------
+---- | -------------- | ---- | -------------------
 1 | Business Development | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
 2a | Completing the SOW | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
 2b | Cost Estimation | Engagement Lead | Delivery, Consulting, Talent, Infrastructure, or C3O
